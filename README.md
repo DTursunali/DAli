@@ -19,7 +19,7 @@ This space will showcase:
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
     Working towards:
- ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-green?style=for-the-badge&logo=comptia&logoColor=white)
+  ![CySA+](https://img.shields.io/badge/CySA%2B-blue?style=for-the-badge&logo=comptia&logoColor=white)
   <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
